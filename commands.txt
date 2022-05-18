@@ -1,0 +1,3 @@
+git init => initialize to repo
+
+git status => check for untracked files
