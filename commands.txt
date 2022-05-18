@@ -1,3 +1,8 @@
 git init => initialize to repo
 
 git status => check for untracked files
+
+git add -A
+
+git commit -m "mesg"
+
