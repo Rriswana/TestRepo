@@ -6,3 +6,8 @@ git add -A
 
 git commit -m "mesg"
 
+to add repo: git remote add (name) (copy path)
+
+git push -u (name) (branch): to push
+
+git remote -v : check
